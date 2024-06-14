@@ -21,7 +21,7 @@ data "aws_ami" "ami_info" {
     }
 }
 
-### Fetching the NEXUS AMI information from AWS ###
+## Fetching the NEXUS AMI information from AWS ###
 
 # data "aws_ami" "nexus_ami_info" {
 
